@@ -18,6 +18,16 @@ body {
   word-wrap: normal;
 }
 
+h1{
+text-transform:uppercase;
+font-weight:700;
+}
+
+h2{
+font-family:"Libre Baskerville", serif;
+font-size:35px;	
+}
+
 a,a:visited,a:active,a:hover {
   color: #FFF;
   text-decoration: underline;
@@ -164,7 +174,6 @@ section {
 }
 
 .bg-image {
-  /* photo from: https://www.pexels.com/photo/dawn-landscape-mountains-nature-1852/ */
   background-image: url(/res/background.jpg);
   background-attachment: scroll;
   background-position: 50% 50%;
