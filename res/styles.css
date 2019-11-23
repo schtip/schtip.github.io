@@ -48,6 +48,12 @@ section {
   z-index: 0;
 }
 
+.responsebreak {
+    display: block;
+    float: left;
+    margin-right: 0.4em;
+}
+
 .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
