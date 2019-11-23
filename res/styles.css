@@ -48,39 +48,19 @@ section {
   z-index: 0;
 }
 
-.responsebreak {
-    display: block;
-    float: center;
-    margin-right: 0.4em;
-}
 
 .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
 }
 
-.form-horizontal .btn {
-  display: block;
-  margin: 0 auto;
-}
 
-.user-signup__submit {
-  line-height: .5em;
-}
-
-.user-signup__form {
-  margin-left: -5px;
-}
-
-.user-signup__form-group {
-  padding: 0 0 0 5px;
-  position: relative;
-}
 
 @media all and (max-width: 767px) {
   .form-horizontal .mt-table,.form-horizontal .mt-table--full,.form-horizontal .mt-table--centered,.form-horizontal .mt-table--full,.form-horizontal .mt-td--centered-vertical {
     display: block;
   }
+  
 }
 
 @media all and (min-width: 768px) {
@@ -118,7 +98,6 @@ section {
     transform: translateY(0);
     float: none;
   }
-  
 }
 
 .insert--image {
@@ -220,6 +199,7 @@ section {
   h1 {
     font-size: 60px;
   }
+  
 }
 
 @media all and (min-width:769px) {
