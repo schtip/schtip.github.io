@@ -49,26 +49,6 @@ section {
 }
 
 
-.form-horizontal .form-group {
-  margin-right: 0;
-  margin-left: 0;
-}
-
-
-
-@media all and (max-width: 767px) {
-  .form-horizontal .mt-table,.form-horizontal .mt-table--full,.form-horizontal .mt-table--centered,.form-horizontal .mt-table--full,.form-horizontal .mt-td--centered-vertical {
-    display: block;
-  }
-  
-}
-
-@media all and (min-width: 768px) {
-  .form-horizontal .user-signup__col-2 {
-    width: 1%;
-  }
-}
-
 .floating-signup__wrap {
   position: fixed;
   z-index: 5;
@@ -85,6 +65,7 @@ section {
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
 
 @media all and (max-width: 480px) {
   .floaty-unfloat-at--xs.floating-signup__wrap {
@@ -125,26 +106,6 @@ section {
   margin-bottom: 28px;
 }
 
-.m-lg-v {
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
-
-.mt-table,.mt-table--full {
-  display: table;
-}
-
-.mt-table--full {
-  width: 100%;
-}
-
-.mt-td,.mt-td--centered-vertical {
-  display: table-cell;
-}
-
-.mt-td--centered-vertical {
-  vertical-align: middle;
-}
 
 .loading-state {
   position: fixed;
@@ -165,7 +126,7 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: transparent;
-  opacity: .69;
+  opacity: .80;
 }
 
 .form-control__input {
