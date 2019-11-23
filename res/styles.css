@@ -134,7 +134,7 @@ section {
 .clean-hr {
   z-index: 0;
   width: 100%;
-  max-width: 579.5px;
+  max-width: 600px;
   margin-top: 28px;
   margin-bottom: 28px;
 }
@@ -207,7 +207,7 @@ section {
 
 @media all and (min-width:481px) {
   p {
-    font-size: 22px;
+    font-size: 18px;
   }
 
   h1 {
