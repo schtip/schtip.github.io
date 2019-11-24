@@ -79,17 +79,45 @@ section {
     transform: translateY(0);
     float: none;
   }
-  
 
-.buttons_container {
-    position: static !important;
-    display: inline-block !important;
-	width:300px !important;
-    top: auto;
-    right: auto;
-    bottom: auto;
-    left: auto !important;
+.buttons{
     float: none;
+    position: relative;
+	display:inline-block;
+	top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+	margin-left:0 !important;
+	margin-right:0 !important;
+	padding:0;
+	float:none;	
+}
+
+.button_cont {
+    display:inline-block;
+	top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+	margin-left:0;
+	margin-right:0;
+	padding:0;
+	float:none;
+	clear:both;
+}
+
+.example_c {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+	margin-left:0;
+	margin-right:0;
+	padding:0;
+	float:none;
+	display:inline-block;
+	clear:both;
 }
 
 }
@@ -110,6 +138,7 @@ section {
     position: relative;
 	left:50%;
 }
+
 
 .buttons {
     float: left;
