@@ -92,6 +92,12 @@ section {
 	  height:auto;
 }
 
+.buttons_container {
+	display:block;
+	width:300px;
+	margin: 0 auto;	
+}
+
 .buttonstyle {
 	max-width:300px;
 	height:auto;
