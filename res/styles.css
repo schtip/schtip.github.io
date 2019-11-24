@@ -92,10 +92,12 @@ section {
 	  height:auto;
 }
 
-.buttons_container {
+.button_cont {
 	display:block;
-	width:300px;
+	width:400px;
 	margin: 0 auto;	
+	left:0;
+	right:0;
 }
 
 .buttonstyle {
