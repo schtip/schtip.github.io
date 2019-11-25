@@ -65,7 +65,9 @@ font-style:italic;
   z-index: 0;
   float:left;
   width: 100%;
-  max-width: 750px;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -55%);
   margin-top: 28px;
   margin-bottom: 28px;
 }
