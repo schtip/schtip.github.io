@@ -63,11 +63,11 @@ font-style:italic;
 
 .clean-hr {
   z-index: 0;
+  float:left;
   width: 100%;
-  max-width: 1000px;
+  max-width: 750px;
   margin-top: 28px;
   margin-bottom: 28px;
-  clear:both;
 }
 
 
