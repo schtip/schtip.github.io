@@ -60,11 +60,6 @@ font-family:"Libre+Baskerville", serif;
 font-style:italic;
 }
 
-.insert--image {
-  display: block;
-  position: relative;
-}
-
 
 .clean-hr {
   z-index: 0;
