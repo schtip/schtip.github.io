@@ -11,7 +11,7 @@ body {
   font-family: "Montserrat",sans-serif;
   line-height: 1.42857;
   font-size: 17px;
-  background-color: rgba(202,44,146,1);
+  background-color: rgba(0,0,0,1);
   color: #FFF;
   word-wrap: normal;
 }
@@ -37,7 +37,7 @@ a,a:visited,a:active,a:hover {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: transparent;
-  opacity: .80;
+  opacity: .50;
 }
 
 
