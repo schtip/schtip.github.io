@@ -66,15 +66,9 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.clean-hr {
-  z-index: 0;
-  width: 100%;
-  left: 50%;
-  position: absolute;
-  margin-top: 20%;
-  margin-bottom: 20%;
+span.line {
+  display: inline-block;
 }
-
 
 .loading-state {
   position: fixed;
